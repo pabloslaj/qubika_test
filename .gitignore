@@ -3,11 +3,9 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
-
-### IntelliJ IDEA ###
-.idea/
-*.iws
-*.iml
-*.ipr
-
+/playwright-ts-orangehrm-website.iml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
 package-lock.json

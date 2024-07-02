@@ -41,6 +41,11 @@ This repository contains end-to-end tests using Playwright to automate workflows
 - [Prettier](https://prettier.io/) - Code Formatting
 - [Fakerjs](https://fakerjs.dev/) - Data Generation
 
+## Getting Started
+
+### Prerequisites
+- Node.js and npm installed on your machine.
+
 ### Project Setup
 
 **Installing Dependencies:**

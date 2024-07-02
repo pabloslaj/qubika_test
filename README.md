@@ -52,7 +52,7 @@ npm install
 **Installing Playwright**
 
 ```bash
-npx playwright install --with-deps --chromium
+npx playwright install
 ```
 
 **Running the tests:**

@@ -33,6 +33,14 @@ This repository contains end-to-end tests using Playwright to automate workflows
    - Create new categories and subcategories using `faker-js` to generate random category names. This approach ensures that each test run uses unique and realistic data, enhancing test coverage and robustness.
    - Validate successful creation and visibility of categories and subcategories within the application.
 
+**Libraries used:**
+- [Playwright](https://playwright.dev/) - Browser and API Automation
+- [Typescript](https://www.typescriptlang.org/) - Programming Language
+- [Dotenv](https://www.npmjs.com/package/dotenv) - Environment Variables
+- [ESLint](https://eslint.org/) - Linting
+- [Prettier](https://prettier.io/) - Code Formatting
+- [Fakerjs](https://fakerjs.dev/) - Data Generation
+
 ### Project Setup
 
 **Installing Dependencies:**

@@ -44,7 +44,7 @@ This repository contains end-to-end tests using Playwright to automate workflows
 ## Getting Started
 
 ### Prerequisites
-- Node.js and npm installed on your machine.
+- [Node.js](https://nodejs.org/en) and npm installed on your machine.
 
 ### Project Setup
 
